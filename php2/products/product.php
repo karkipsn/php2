@@ -6,7 +6,7 @@ include_once '../server.php';
 <!DOCTYPE html>
 <html
 <head>
-	<<title>Products</title>
+	<title>Products</title>
 
 	<style >
 
